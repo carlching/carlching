@@ -5,6 +5,6 @@
 - 📖 I’m currently reading Zero to One 0️⃣➪1️⃣
 - 👯 I’m looking to collaborate with everyone 😂
 - 👨🏻‍💻 I’m currrently learning NextJS, NodeJS, Design 
-- ♞ 2020 Goals: To build a succcessful startup.
+- ♞ 2021 Goal/s: To build a succcessful startup.
 
 <br/>
